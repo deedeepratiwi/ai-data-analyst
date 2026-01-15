@@ -1,0 +1,525 @@
+Order ID,Date,Product Category,Product Name,Region,Customer Segment,Unit Price,Quantity,Total Revenue,Discount (%),Customer Satisfaction,Shipping Days
+ORD1405,2023-01-01,Home & Garden,Lamp,South America,Budget,59.8,5,299.0,6.6,4.0,2
+ORD1126,2023-01-01,Sports,Bottle,Asia,Standard,100.83,5,504.15,4.2,3.7,5
+ORD1382,2023-01-02,Electronics,Camera,North America,Premium,1408.84,2,2817.68,3.3,4.9,7
+ORD1221,2023-01-03,Toys,Board Game,Asia,Budget,20.68,3,62.04,7.0,3.2,7
+ORD1304,2023-01-04,Electronics,Laptop,Africa,Premium,1330.87,5,6654.35,2.0,4.6,6
+ORD1114,2023-01-04,Home & Garden,Lamp,Europe,Budget,53.38,2,106.76,13.7,3.6,1
+ORD1441,2023-01-06,Books,Magazine,Africa,Premium,38.29,5,191.45,4.9,4.3,4
+ORD1021,2023-01-07,Clothing,Shoes,South America,Budget,52.11,2,104.22,10.6,3.8,6
+ORD1496,2023-01-07,Books,Magazine,South America,Premium,40.83,5,204.15,2.2,4.2,5
+ORD1163,2023-01-08,Electronics,Smartphone,Asia,Premium,1450.62,2,2901.24,2.3,4.6,5
+ORD1282,2023-01-09,Sports,Weights,North America,Budget,20.76,4,83.04,24.9,3.8,3
+ORD1266,2023-01-10,Books,Fiction,North America,Standard,33.48,5,167.4,13.8,4.4,4
+ORD1311,2023-01-10,Toys,Car,Asia,Budget,33.66,2,67.32,8.4,3.4,2
+ORD1105,2023-01-12,Books,Textbook,South America,Premium,45.44,2,90.88,2.0,4.2,1
+ORD1209,2023-01-16,Home & Garden,Chair,Africa,Budget,130.91,5,654.55,5.7,3.4,7
+ORD1129,2023-01-20,Books,Non-Fiction,South America,Standard,30.89,4,123.56,11.3,4.5,4
+ORD1493,2023-01-21,Sports,Racket,South America,Premium,124.6,1,124.6,4.1,4.1,5
+ORD1160,2023-01-22,Sports,Ball,South America,Standard,96.66,3,289.98,10.4,4.1,2
+ORD1353,2023-01-25,Home & Garden,Chair,Africa,Budget,114.71,2,229.42,22.5,4.5,1
+ORD1428,2023-01-26,Toys,Puzzle,North America,Standard,59.9,1,59.9,7.8,3.6,6
+ORD1001,2023-01-26,Books,Textbook,South America,Standard,32.99,1,32.99,2.3,3.7,4
+ORD1335,2023-01-26,Sports,Racket,Europe,Premium,134.65,1,134.65,3.5,4.8,3
+ORD1015,2023-01-28,Books,Magazine,South America,Budget,23.25,5,116.25,11.2,3.8,3
+ORD1514,2023-01-28,Electronics,Camera,North America,Premium,1305.29,2,2610.58,1.3,5.0,7
+ORD1516,2023-01-28,Home & Garden,Cushion,Asia,Premium,213.91,5,1069.55,3.2,5.0,4
+ORD1364,2023-01-29,Clothing,Jeans,Asia,Premium,176.46,4,705.84,2.6,4.2,5
+ORD1507,2023-01-30,Electronics,Headphones,South America,Budget,807.38,3,2422.14,12.0,3.2,1
+ORD1010,2023-01-31,Toys,Car,Africa,Premium,88.23,5,441.15,0.9,4.1,7
+ORD1168,2023-02-02,Home & Garden,Rug,North America,Standard,195.81,5,979.05,2.4,4.7,1
+ORD1009,2023-02-02,Toys,Doll,North America,Budget,33.14,2,66.28,16.8,3.1,1
+ORD1071,2023-02-02,Books,Textbook,Europe,Budget,14.49,2,28.98,19.2,3.4,5
+ORD1315,2023-02-06,Home & Garden,Cushion,Asia,Budget,31.48,5,157.4,7.7,4.4,1
+ORD1369,2023-02-09,Electronics,Headphones,Europe,Budget,692.86,2,1385.72,18.9,3.2,1
+ORD1344,2023-02-09,Toys,Car,Europe,Standard,58.45,2,116.9,1.8,3.6,6
+ORD1250,2023-02-10,Sports,Weights,Europe,Budget,22.89,3,68.67,23.8,3.9,5
+ORD1323,2023-02-10,Sports,Ball,North America,Budget,47.13,5,235.65,18.3,4.4,2
+ORD1320,2023-02-12,Sports,Weights,South America,Budget,20.59,5,102.95,17.1,3.4,4
+ORD1036,2023-02-14,Electronics,Smartphone,North America,Budget,348.72,4,1394.88,6.5,3.4,5
+ORD1380,2023-02-15,Sports,Mat,North America,Budget,70.67,1,70.67,12.0,4.0,6
+ORD1303,2023-02-15,Toys,Doll,Asia,Standard,60.7,3,182.1,8.9,3.8,6
+ORD1045,2023-02-16,Clothing,Shoes,North America,Budget,49.09,2,98.18,15.4,4.1,6
+ORD1429,2023-02-17,Clothing,Jeans,Africa,Premium,161.04,5,805.2,0.2,4.1,2
+ORD1095,2023-02-18,Electronics,Laptop,Asia,Standard,857.19,1,857.19,7.0,4.2,5
+ORD1522,2023-02-21,Toys,Car,North America,Premium,90.03,5,450.15,0.5,4.6,2
+ORD1448,2023-02-21,Clothing,T-Shirt,Africa,Premium,184.56,2,369.12,2.1,4.3,3
+ORD1208,2023-02-21,Clothing,Dress,South America,Premium,177.1,1,177.1,1.8,4.5,5
+ORD1236,2023-02-21,Toys,Board Game,Europe,Premium,77.64,2,155.28,3.4,4.8,7
+ORD1299,2023-02-22,Sports,Racket,Europe,Premium,145.34,5,726.7,0.1,4.1,2
+ORD1189,2023-02-25,Books,Textbook,Europe,Standard,32.19,5,160.95,13.6,4.0,3
+ORD1069,2023-02-27,Sports,Bottle,South America,Premium,134.86,4,539.44,0.0,4.2,5
+ORD1240,2023-02-28,Home & Garden,Rug,Europe,Premium,294.45,2,588.9,0.9,4.1,7
+ORD1235,2023-02-28,Home & Garden,Cushion,South America,Premium,299.1,5,1495.5,1.6,4.8,3
+ORD1232,2023-03-01,Electronics,Camera,Europe,Budget,387.61,3,1162.83,16.6,3.2,4
+ORD1134,2023-03-01,Sports,Bottle,Asia,Budget,49.1,1,49.1,21.5,3.5,4
+ORD1218,2023-03-02,Electronics,Smartphone,Asia,Standard,936.33,1,936.33,1.9,3.9,7
+ORD1165,2023-03-02,Sports,Bottle,South America,Budget,38.85,5,194.25,16.7,3.1,6
+ORD1191,2023-03-04,Books,Non-Fiction,Asia,Budget,22.44,5,112.2,22.2,4.4,4
+ORD1233,2023-03-04,Home & Garden,Cushion,Europe,Premium,253.3,1,253.3,2.7,4.1,6
+ORD1489,2023-03-05,Sports,Racket,South America,Standard,91.66,1,91.66,13.1,4.5,7
+ORD1100,2023-03-07,Clothing,Jeans,South America,Budget,24.65,3,73.95,15.6,3.8,1
+ORD1158,2023-03-07,Home & Garden,Lamp,Africa,Standard,188.75,3,566.25,14.9,3.6,1
+ORD1483,2023-03-07,Toys,Doll,South America,Budget,40.75,4,163.0,14.9,3.9,7
+ORD1075,2023-03-09,Electronics,Headphones,North America,Budget,358.59,4,1434.36,24.5,3.6,1
+ORD1167,2023-03-11,Books,Fiction,South America,Standard,32.68,3,98.04,4.6,4.6,7
+ORD1245,2023-03-11,Toys,Puzzle,South America,Standard,68.16,5,340.8,5.9,4.6,3
+ORD1244,2023-03-12,Books,Magazine,Africa,Premium,44.98,2,89.96,2.6,4.4,3
+ORD1139,2023-03-12,Books,Comic,Africa,Budget,16.57,5,82.85,18.5,4.1,1
+ORD1275,2023-03-12,Home & Garden,Lamp,Europe,Budget,154.18,5,770.9,11.9,3.5,4
+ORD1044,2023-03-13,Toys,Doll,Asia,Budget,15.39,5,76.95,11.8,4.4,6
+ORD1358,2023-03-13,Clothing,Shoes,Europe,Budget,108.9,3,326.7,13.6,3.6,7
+ORD1387,2023-03-13,Clothing,Dress,South America,Budget,31.6,5,158.0,11.7,4.1,3
+ORD1164,2023-03-14,Clothing,T-Shirt,Europe,Budget,44.96,4,179.84,8.8,3.7,4
+ORD1170,2023-03-14,Home & Garden,Chair,North America,Budget,112.81,5,564.05,13.4,4.4,5
+ORD1060,2023-03-15,Books,Fiction,Europe,Standard,31.71,5,158.55,1.7,4.7,2
+ORD1265,2023-03-16,Clothing,Shoes,Africa,Standard,136.16,4,544.64,14.0,4.2,3
+ORD1432,2023-03-16,Electronics,Camera,Europe,Standard,883.5,5,4417.5,1.6,4.3,4
+ORD1269,2023-03-17,Sports,Ball,North America,Standard,103.33,2,206.66,6.8,3.6,3
+ORD1205,2023-03-19,Sports,Mat,North America,Premium,146.44,4,585.76,0.3,4.3,5
+ORD1313,2023-03-19,Books,Fiction,Europe,Premium,43.65,4,174.6,1.4,4.6,3
+ORD1470,2023-03-21,Home & Garden,Chair,North America,Premium,228.53,4,914.12,0.6,4.3,1
+ORD1136,2023-03-22,Home & Garden,Chair,Africa,Budget,152.23,2,304.46,6.8,3.5,2
+ORD1040,2023-03-22,Clothing,Jeans,Asia,Budget,92.67,1,92.67,22.9,3.5,2
+ORD1048,2023-03-23,Books,Textbook,South America,Standard,31.42,5,157.1,0.6,4.3,5
+ORD1476,2023-03-24,Electronics,Laptop,Europe,Standard,977.82,1,977.82,13.0,4.1,2
+ORD1242,2023-03-24,Sports,Weights,South America,Budget,24.43,2,48.86,20.9,3.3,5
+ORD1251,2023-03-25,Sports,Ball,Africa,Budget,37.61,2,75.22,7.8,4.2,5
+ORD1517,2023-03-27,Electronics,Tablet,Europe,Standard,970.32,5,4851.6,12.3,4.6,7
+ORD1418,2023-03-28,Electronics,Tablet,Africa,Budget,645.62,1,645.62,13.6,3.3,1
+ORD1137,2023-03-29,Toys,Board Game,Europe,Premium,98.5,3,295.5,4.8,4.6,7
+ORD1007,2023-03-31,Toys,Puzzle,Europe,Standard,57.09,1,57.09,4.4,4.0,5
+ORD1094,2023-04-04,Clothing,Dress,Asia,Budget,53.8,2,107.6,6.9,3.9,6
+ORD1300,2023-04-05,Toys,Doll,North America,Premium,76.24,4,304.96,0.1,4.2,3
+ORD1030,2023-04-05,Home & Garden,Chair,Africa,Premium,220.76,3,662.28,3.6,4.8,1
+ORD1011,2023-04-06,Electronics,Tablet,Africa,Standard,1039.78,3,3119.34,14.5,4.6,1
+ORD1422,2023-04-06,Sports,Bottle,Europe,Standard,91.33,3,273.99,7.2,4.3,4
+ORD1210,2023-04-06,Sports,Bottle,North America,Standard,98.55,4,394.2,13.4,4.2,1
+ORD1182,2023-04-07,Home & Garden,Lamp,Africa,Premium,220.22,4,880.88,3.4,4.5,5
+ORD1183,2023-04-10,Home & Garden,Chair,Asia,Standard,199.75,2,399.5,7.8,4.6,2
+ORD1032,2023-04-10,Books,Fiction,North America,Budget,20.45,3,61.35,13.6,3.0,4
+ORD1207,2023-04-11,Clothing,Jacket,South America,Premium,152.56,5,762.8,1.9,4.5,3
+ORD1190,2023-04-11,Toys,Board Game,Europe,Budget,33.13,2,66.26,20.7,3.6,3
+ORD1268,2023-04-13,Home & Garden,Plant,Africa,Budget,87.26,4,349.04,19.7,4.4,3
+ORD1050,2023-04-14,Toys,Car,Africa,Standard,68.62,1,68.62,3.6,3.7,1
+ORD1029,2023-04-15,Electronics,Smartphone,Asia,Premium,1336.9,3,4010.7,4.4,4.5,2
+ORD1006,2023-04-15,Home & Garden,Cushion,Europe,Budget,88.31,5,441.55,10.8,3.9,6
+ORD1327,2023-04-16,Electronics,Headphones,Europe,Budget,701.09,4,2804.36,7.1,3.1,4
+ORD1284,2023-04-17,Books,Non-Fiction,Africa,Budget,14.2,5,71.0,23.0,3.3,7
+ORD1119,2023-04-19,Clothing,Jacket,North America,Premium,175.15,4,700.6,4.7,4.6,5
+ORD1442,2023-04-20,Books,Non-Fiction,South America,Budget,13.64,5,68.2,20.8,4.0,6
+ORD1288,2023-04-20,Sports,Mat,North America,Budget,42.05,2,84.1,16.2,3.2,5
+ORD1342,2023-04-21,Clothing,T-Shirt,Europe,Budget,97.58,3,292.74,21.9,3.5,2
+ORD1194,2023-04-22,Toys,Board Game,Asia,Budget,32.17,1,32.17,11.6,4.0,6
+ORD1370,2023-04-22,Toys,Doll,North America,Premium,94.47,5,472.35,1.1,4.2,4
+ORD1096,2023-04-23,Home & Garden,Lamp,North America,Standard,177.89,3,533.67,8.9,3.5,6
+ORD1130,2023-04-25,Books,Fiction,Asia,Standard,34.95,3,104.85,6.2,4.0,6
+ORD1312,2023-04-25,Sports,Mat,South America,Budget,16.24,3,48.72,23.3,3.2,1
+ORD1000,2023-04-25,Books,Textbook,Europe,Standard,31.87,3,95.61,14.3,4.5,3
+ORD1109,2023-04-25,Toys,Puzzle,South America,Budget,37.53,4,150.12,13.4,3.4,3
+ORD1106,2023-04-28,Electronics,Tablet,South America,Premium,1120.4,1,1120.4,1.3,4.5,2
+ORD1287,2023-04-29,Clothing,Shoes,Europe,Standard,123.6,5,618.0,7.9,4.1,7
+ORD1365,2023-04-29,Clothing,Shoes,Africa,Budget,35.89,3,107.67,9.4,3.3,3
+ORD1376,2023-04-29,Clothing,Dress,Africa,Standard,121.18,3,363.54,3.9,4.4,3
+ORD1248,2023-05-03,Clothing,Jeans,Asia,Budget,40.9,2,81.8,23.0,3.6,3
+ORD1155,2023-05-04,Books,Fiction,South America,Premium,40.62,4,162.48,1.4,4.9,1
+ORD1450,2023-05-05,Books,Comic,South America,Budget,27.34,5,136.7,16.6,3.7,1
+ORD1390,2023-05-08,Sports,Bottle,South America,Standard,96.38,1,96.38,14.7,4.3,6
+ORD1038,2023-05-08,Books,Textbook,Africa,Standard,33.17,3,99.51,13.1,4.5,5
+ORD1140,2023-05-09,Sports,Weights,North America,Premium,140.62,3,421.86,3.9,4.1,6
+ORD1398,2023-05-11,Books,Comic,Africa,Budget,10.91,4,43.64,22.4,4.5,1
+ORD1513,2023-05-11,Toys,Car,Asia,Premium,85.75,5,428.75,3.5,4.1,3
+ORD1319,2023-05-11,Clothing,Jeans,South America,Premium,142.82,4,571.28,0.8,4.7,6
+ORD1141,2023-05-12,Home & Garden,Cushion,Asia,Premium,254.5,2,509.0,0.3,4.5,7
+ORD1306,2023-05-14,Books,Magazine,Europe,Budget,25.27,3,75.81,7.8,4.3,1
+ORD1261,2023-05-15,Home & Garden,Rug,Africa,Premium,241.11,3,723.33,0.9,4.9,2
+ORD1176,2023-05-16,Home & Garden,Cushion,Asia,Standard,167.54,4,670.16,13.0,4.6,7
+ORD1273,2023-05-16,Sports,Weights,Africa,Budget,37.63,5,188.15,21.1,3.0,1
+ORD1452,2023-05-17,Electronics,Headphones,Africa,Premium,1455.32,4,5821.28,2.1,4.3,1
+ORD1285,2023-05-18,Books,Non-Fiction,Europe,Premium,37.86,5,189.3,0.2,4.5,6
+ORD1519,2023-05-19,Books,Non-Fiction,Africa,Premium,41.17,2,82.34,4.2,4.9,1
+ORD1091,2023-05-22,Sports,Weights,Asia,Premium,146.1,4,584.4,2.6,4.5,3
+ORD1477,2023-05-22,Sports,Racket,Africa,Budget,49.8,4,199.2,14.8,4.0,1
+ORD1005,2023-05-23,Toys,Puzzle,Africa,Premium,75.5,4,302.0,1.5,4.5,6
+ORD1084,2023-05-23,Toys,Doll,Europe,Premium,95.53,1,95.53,1.6,4.2,5
+ORD1199,2023-05-24,Clothing,T-Shirt,Asia,Premium,150.34,3,451.02,1.0,4.0,7
+ORD1082,2023-05-27,Electronics,Tablet,North America,Standard,935.64,3,2806.92,14.5,4.8,3
+ORD1427,2023-05-31,Books,Magazine,Asia,Premium,45.54,3,136.62,2.8,4.0,1
+ORD1317,2023-06-01,Home & Garden,Lamp,South America,Budget,119.78,5,598.9,8.5,4.4,6
+ORD1440,2023-06-01,Home & Garden,Chair,Europe,Standard,176.12,2,352.24,2.4,4.6,5
+ORD1314,2023-06-02,Clothing,T-Shirt,Asia,Standard,129.54,2,259.08,12.4,3.8,4
+ORD1478,2023-06-04,Electronics,Tablet,North America,Standard,877.93,2,1755.86,0.4,3.9,4
+ORD1481,2023-06-06,Clothing,Jeans,North America,Budget,59.94,5,299.7,22.4,3.3,1
+ORD1123,2023-06-06,Books,Magazine,South America,Budget,11.39,1,11.39,7.0,3.0,4
+ORD1097,2023-06-06,Books,Non-Fiction,Europe,Premium,35.56,5,177.8,4.1,4.4,3
+ORD1228,2023-06-08,Toys,Doll,North America,Premium,97.88,5,489.4,2.8,4.6,6
+ORD1330,2023-06-08,Electronics,Laptop,South America,Standard,1009.88,1,1009.88,10.4,3.9,5
+ORD1289,2023-06-09,Clothing,Dress,Asia,Budget,36.37,4,145.48,22.2,4.4,5
+ORD1026,2023-06-09,Home & Garden,Cushion,Europe,Premium,242.26,2,484.52,0.6,4.9,3
+ORD1279,2023-06-11,Books,Comic,Asia,Budget,17.25,3,51.75,16.6,3.9,5
+ORD1112,2023-06-11,Books,Textbook,Europe,Premium,47.83,4,191.32,3.5,4.5,1
+ORD1239,2023-06-11,Sports,Weights,Asia,Premium,148.43,2,296.86,0.6,4.7,7
+ORD1459,2023-06-12,Sports,Weights,Africa,Budget,49.75,1,49.75,12.2,3.9,2
+ORD1341,2023-06-13,Toys,Puzzle,South America,Standard,69.57,2,139.14,14.2,4.1,5
+ORD1022,2023-06-13,Books,Magazine,South America,Premium,37.11,1,37.11,4.0,4.1,3
+ORD1098,2023-06-13,Sports,Bottle,Asia,Premium,110.72,3,332.16,2.6,4.8,7
+ORD1125,2023-06-15,Clothing,T-Shirt,Europe,Standard,119.57,5,597.85,12.7,3.5,6
+ORD1308,2023-06-15,Home & Garden,Plant,Africa,Budget,87.4,4,349.6,5.4,3.4,2
+ORD1332,2023-06-16,Clothing,Jeans,South America,Standard,137.52,4,550.08,2.1,4.7,4
+ORD1055,2023-06-16,Electronics,Smartphone,Asia,Standard,1017.06,4,4068.24,4.8,3.7,3
+ORD1063,2023-06-17,Sports,Mat,North America,Premium,115.88,1,115.88,0.5,4.9,4
+ORD1219,2023-06-18,Toys,Car,Asia,Premium,80.89,3,242.67,3.2,4.6,4
+ORD1511,2023-06-19,Books,Non-Fiction,Europe,Premium,39.09,5,195.45,2.1,4.1,7
+ORD1143,2023-06-19,Toys,Puzzle,North America,Budget,15.27,5,76.35,7.9,4.1,2
+ORD1212,2023-06-20,Electronics,Tablet,Europe,Budget,546.2,1,546.2,9.8,3.4,7
+ORD1417,2023-06-23,Sports,Mat,Africa,Budget,47.5,4,190.0,7.3,3.2,5
+ORD1061,2023-06-25,Home & Garden,Plant,South America,Premium,288.96,1,288.96,1.3,4.7,6
+ORD1402,2023-06-28,Clothing,Shoes,Europe,Premium,181.0,3,543.0,2.2,4.3,3
+ORD1445,2023-06-30,Home & Garden,Chair,South America,Premium,268.53,2,537.06,1.0,4.7,7
+ORD1333,2023-07-01,Books,Magazine,North America,Budget,18.92,5,94.6,8.7,3.8,2
+ORD1117,2023-07-02,Sports,Weights,Europe,Premium,143.54,1,143.54,3.3,4.2,2
+ORD1367,2023-07-02,Clothing,Dress,South America,Premium,198.15,5,990.75,4.4,4.9,6
+ORD1336,2023-07-03,Books,Comic,South America,Budget,14.99,4,59.96,14.8,3.3,7
+ORD1521,2023-07-06,Toys,Puzzle,Asia,Premium,78.24,4,312.96,4.1,4.4,7
+ORD1201,2023-07-07,Clothing,Shoes,South America,Budget,27.98,1,27.98,7.4,3.7,1
+ORD1243,2023-07-10,Electronics,Laptop,Asia,Standard,882.73,4,3530.92,2.5,4.6,5
+ORD1181,2023-07-14,Sports,Ball,Asia,Budget,60.34,4,241.36,17.4,3.5,6
+ORD1229,2023-07-14,Books,Fiction,Europe,Premium,39.2,2,78.4,3.8,4.2,7
+ORD1197,2023-07-14,Books,Textbook,North America,Standard,33.2,1,33.2,2.7,3.9,4
+ORD1378,2023-07-14,Clothing,Jeans,Asia,Budget,81.49,1,81.49,6.5,4.3,6
+ORD1196,2023-07-16,Books,Comic,Europe,Standard,30.64,1,30.64,2.3,3.7,2
+ORD1399,2023-07-16,Electronics,Laptop,Asia,Budget,829.77,1,829.77,20.0,3.2,5
+ORD1043,2023-07-16,Clothing,Jacket,Asia,Budget,65.97,4,263.88,13.3,3.3,1
+ORD1354,2023-07-17,Home & Garden,Plant,Africa,Budget,133.72,1,133.72,13.4,3.6,7
+ORD1435,2023-07-19,Home & Garden,Cushion,Europe,Standard,204.19,1,204.19,10.7,4.5,3
+ORD1384,2023-07-21,Toys,Car,Africa,Budget,41.39,1,41.39,18.6,3.9,2
+ORD1016,2023-07-23,Home & Garden,Lamp,North America,Standard,189.6,4,758.4,2.8,4.8,2
+ORD1122,2023-07-23,Electronics,Camera,Asia,Standard,1042.24,1,1042.24,13.6,3.8,1
+ORD1426,2023-07-23,Clothing,Dress,South America,Standard,114.27,4,457.08,7.5,4.3,1
+ORD1347,2023-07-24,Books,Fiction,Asia,Budget,25.81,4,103.24,11.4,3.9,7
+ORD1148,2023-07-25,Home & Garden,Lamp,Africa,Premium,283.15,3,849.45,4.7,5.0,4
+ORD1294,2023-07-28,Sports,Weights,Asia,Premium,105.89,5,529.45,0.5,4.8,6
+ORD1256,2023-07-29,Toys,Action Figure,Asia,Budget,25.39,3,76.17,21.4,3.2,4
+ORD1490,2023-07-31,Clothing,Shoes,South America,Premium,174.02,2,348.04,3.7,4.9,4
+ORD1058,2023-08-03,Sports,Ball,Africa,Standard,97.02,4,388.08,2.6,4.4,1
+ORD1325,2023-08-04,Sports,Mat,North America,Budget,32.7,2,65.4,16.9,3.1,6
+ORD1292,2023-08-04,Clothing,Jacket,Africa,Standard,131.48,2,262.96,9.9,3.5,3
+ORD1408,2023-08-04,Books,Comic,Europe,Standard,32.1,3,96.3,9.6,4.0,5
+ORD1147,2023-08-05,Books,Magazine,South America,Budget,29.73,4,118.92,12.5,3.6,4
+ORD1076,2023-08-05,Toys,Doll,South America,Budget,50.14,2,100.28,17.6,4.2,1
+ORD1078,2023-08-06,Electronics,Tablet,Africa,Standard,889.05,3,2667.15,10.8,3.9,6
+ORD1414,2023-08-07,Toys,Puzzle,South America,Budget,44.69,4,178.76,21.9,4.1,2
+ORD1270,2023-08-07,Toys,Car,South America,Standard,69.77,1,69.77,12.6,3.7,4
+ORD1216,2023-08-07,Home & Garden,Lamp,North America,Premium,281.03,1,281.03,2.5,4.1,3
+ORD1175,2023-08-08,Books,Magazine,Africa,Budget,19.37,5,96.85,13.3,3.4,2
+ORD1482,2023-08-08,Sports,Racket,South America,Standard,98.08,2,196.16,12.6,4.7,6
+ORD1027,2023-08-09,Electronics,Camera,Europe,Premium,1330.48,2,2660.96,1.7,4.1,6
+ORD1231,2023-08-11,Sports,Racket,South America,Standard,87.95,3,263.85,1.7,4.3,4
+ORD1012,2023-08-12,Sports,Weights,North America,Standard,89.35,4,357.4,1.5,4.4,1
+ORD1090,2023-08-13,Books,Fiction,Europe,Standard,34.05,5,170.25,12.2,4.6,3
+ORD1444,2023-08-13,Clothing,Jeans,Asia,Standard,116.85,5,584.25,14.9,4.8,1
+ORD1067,2023-08-13,Sports,Racket,North America,Standard,84.39,4,337.56,2.4,4.7,3
+ORD1503,2023-08-13,Electronics,Smartphone,South America,Standard,1002.98,5,5014.9,12.2,4.4,5
+ORD1162,2023-08-14,Sports,Racket,Asia,Standard,83.52,2,167.04,4.2,4.7,2
+ORD1018,2023-08-14,Electronics,Headphones,Asia,Premium,1319.05,4,5276.2,4.6,4.1,2
+ORD1501,2023-08-14,Books,Comic,Africa,Premium,40.12,3,120.36,1.9,4.4,6
+ORD1346,2023-08-16,Sports,Bottle,Europe,Budget,19.41,4,77.64,11.3,3.8,5
+ORD1352,2023-08-17,Clothing,Jacket,Europe,Standard,133.02,1,133.02,6.0,4.1,4
+ORD1004,2023-08-17,Electronics,Camera,Europe,Premium,1424.6,2,2849.2,1.1,4.2,4
+ORD1157,2023-08-19,Toys,Board Game,Asia,Premium,99.1,4,396.4,0.2,4.9,1
+ORD1425,2023-08-19,Toys,Doll,Asia,Standard,56.57,3,169.71,3.6,4.8,4
+ORD1351,2023-08-22,Books,Magazine,Africa,Budget,25.98,2,51.96,25.0,3.5,4
+ORD1046,2023-08-22,Clothing,Jacket,Europe,Premium,161.82,1,161.82,4.9,5.0,2
+ORD1166,2023-08-23,Toys,Action Figure,Asia,Budget,53.85,3,161.55,24.7,4.0,2
+ORD1070,2023-08-23,Books,Textbook,Asia,Budget,20.97,5,104.85,18.8,4.0,4
+ORD1161,2023-08-24,Home & Garden,Lamp,North America,Budget,114.72,1,114.72,16.7,4.4,5
+ORD1479,2023-08-25,Electronics,Smartphone,South America,Premium,1367.11,1,1367.11,1.0,4.7,1
+ORD1013,2023-08-27,Books,Textbook,South America,Budget,18.8,2,37.6,7.4,3.7,4
+ORD1049,2023-08-27,Books,Magazine,North America,Budget,20.05,1,20.05,6.0,3.4,4
+ORD1246,2023-08-29,Clothing,Dress,Africa,Premium,166.35,2,332.7,1.9,4.5,4
+ORD1472,2023-08-29,Clothing,Jeans,Asia,Premium,142.36,3,427.08,0.6,4.5,1
+ORD1423,2023-08-29,Books,Comic,Africa,Premium,39.37,3,118.11,3.5,4.9,1
+ORD1211,2023-08-31,Toys,Board Game,Asia,Standard,62.98,1,62.98,1.6,4.1,3
+ORD1331,2023-08-31,Electronics,Laptop,South America,Premium,1315.6,3,3946.8,1.8,4.1,4
+ORD1172,2023-09-01,Sports,Racket,Asia,Budget,40.41,4,161.64,21.2,4.5,5
+ORD1467,2023-09-02,Electronics,Camera,South America,Premium,1125.43,4,4501.72,0.2,4.7,7
+ORD1258,2023-09-02,Electronics,Smartphone,South America,Standard,1009.46,4,4037.84,2.2,3.8,4
+ORD1133,2023-09-03,Toys,Car,Europe,Budget,43.95,1,43.95,7.1,4.4,5
+ORD1135,2023-09-04,Home & Garden,Plant,North America,Standard,205.3,5,1026.5,5.8,3.5,3
+ORD1178,2023-09-06,Home & Garden,Chair,Africa,Budget,133.81,4,535.24,23.9,4.3,3
+ORD1439,2023-09-07,Sports,Ball,Europe,Standard,98.96,1,98.96,1.2,3.6,2
+ORD1430,2023-09-08,Home & Garden,Rug,South America,Standard,182.86,2,365.72,2.0,4.2,7
+ORD1003,2023-09-08,Electronics,Laptop,North America,Premium,1368.63,2,2737.26,0.1,5.0,7
+ORD1276,2023-09-08,Sports,Ball,North America,Premium,138.19,2,276.38,2.3,4.2,6
+ORD1062,2023-09-08,Sports,Racket,Europe,Standard,100.89,5,504.45,8.3,4.2,1
+ORD1249,2023-09-10,Sports,Weights,North America,Standard,94.73,2,189.46,13.6,4.3,6
+ORD1085,2023-09-10,Books,Comic,Europe,Standard,32.78,5,163.9,14.0,4.4,2
+ORD1463,2023-09-11,Home & Garden,Plant,South America,Standard,185.42,1,185.42,3.5,3.6,6
+ORD1156,2023-09-11,Home & Garden,Rug,South America,Budget,60.19,4,240.76,24.3,3.0,6
+ORD1195,2023-09-12,Sports,Ball,Asia,Premium,115.81,2,231.62,0.4,4.1,3
+ORD1339,2023-09-12,Electronics,Smartphone,Europe,Premium,1305.58,1,1305.58,4.6,4.0,5
+ORD1449,2023-09-13,Electronics,Tablet,Europe,Budget,441.18,3,1323.54,24.8,3.1,2
+ORD1326,2023-09-13,Sports,Mat,North America,Budget,48.5,4,194.0,16.9,3.5,7
+ORD1204,2023-09-13,Home & Garden,Chair,North America,Premium,266.51,4,1066.04,0.4,4.9,6
+ORD1104,2023-09-15,Home & Garden,Rug,Europe,Budget,33.42,1,33.42,24.3,4.3,6
+ORD1298,2023-09-15,Sports,Weights,Europe,Premium,135.06,5,675.3,1.0,4.3,6
+ORD1379,2023-09-18,Toys,Puzzle,North America,Standard,62.43,4,249.72,7.2,4.3,4
+ORD1462,2023-09-23,Clothing,Shoes,South America,Premium,186.41,5,932.05,0.7,5.0,6
+ORD1523,2023-09-24,Books,Magazine,North America,Premium,41.78,3,125.34,2.9,4.2,1
+ORD1366,2023-09-25,Books,Magazine,South America,Premium,46.69,3,140.07,1.8,4.1,2
+ORD1255,2023-09-25,Sports,Mat,Africa,Budget,53.47,1,53.47,20.2,4.3,4
+ORD1307,2023-09-26,Electronics,Tablet,Africa,Budget,516.83,1,516.83,22.9,4.2,3
+ORD1086,2023-09-27,Clothing,Shoes,Asia,Standard,127.1,3,381.3,1.5,4.3,6
+ORD1115,2023-09-27,Sports,Racket,Africa,Premium,132.71,2,265.42,3.2,4.0,3
+ORD1295,2023-09-28,Sports,Mat,South America,Standard,86.52,2,173.04,9.8,3.8,3
+ORD1035,2023-09-28,Sports,Ball,Europe,Premium,116.22,5,581.1,2.1,4.8,3
+ORD1286,2023-09-28,Electronics,Smartphone,North America,Standard,962.97,3,2888.91,1.0,4.5,4
+ORD1083,2023-09-29,Books,Non-Fiction,Europe,Budget,27.06,4,108.24,10.9,3.6,5
+ORD1144,2023-09-29,Books,Magazine,South America,Standard,33.09,2,66.18,1.5,3.6,3
+ORD1272,2023-09-29,Home & Garden,Chair,South America,Budget,109.82,4,439.28,13.0,3.1,7
+ORD1368,2023-09-29,Electronics,Camera,North America,Premium,1497.71,1,1497.71,0.9,4.4,7
+ORD1259,2023-09-29,Clothing,Jacket,Africa,Premium,183.34,3,550.02,3.6,4.6,7
+ORD1223,2023-09-29,Clothing,Dress,Asia,Standard,118.55,1,118.55,2.6,4.7,1
+ORD1107,2023-10-01,Sports,Racket,South America,Standard,98.58,3,295.74,9.9,3.9,6
+ORD1059,2023-10-01,Clothing,Dress,Asia,Budget,54.81,4,219.24,23.7,3.2,6
+ORD1340,2023-10-01,Electronics,Headphones,Africa,Budget,653.32,1,653.32,10.9,4.4,2
+ORD1074,2023-10-02,Electronics,Smartphone,Africa,Budget,260.89,3,782.67,12.4,3.4,7
+ORD1066,2023-10-04,Books,Comic,Europe,Standard,34.44,2,68.88,11.7,4.3,5
+ORD1473,2023-10-06,Toys,Car,Asia,Premium,98.02,3,294.06,1.6,4.5,6
+ORD1290,2023-10-06,Books,Textbook,Europe,Standard,31.87,5,159.35,4.1,4.3,3
+ORD1504,2023-10-07,Toys,Car,Europe,Standard,69.33,2,138.66,0.3,3.8,6
+ORD1002,2023-10-09,Electronics,Camera,North America,Standard,861.62,2,1723.24,13.0,4.3,6
+ORD1468,2023-10-09,Clothing,Shoes,Asia,Standard,129.91,3,389.73,7.1,4.6,3
+ORD1464,2023-10-11,Electronics,Headphones,Africa,Budget,310.34,3,931.02,15.4,3.5,6
+ORD1302,2023-10-11,Sports,Racket,South America,Budget,70.18,4,280.72,11.8,3.4,4
+ORD1052,2023-10-12,Electronics,Smartphone,South America,Budget,636.89,4,2547.56,20.2,3.4,3
+ORD1020,2023-10-12,Home & Garden,Rug,North America,Budget,82.47,2,164.94,10.4,4.2,1
+ORD1025,2023-10-12,Sports,Weights,Asia,Budget,64.21,4,256.84,20.4,3.1,3
+ORD1173,2023-10-13,Clothing,T-Shirt,South America,Premium,149.03,3,447.09,3.0,4.4,6
+ORD1202,2023-10-13,Electronics,Tablet,Europe,Premium,1142.85,5,5714.25,1.8,4.5,6
+ORD1359,2023-10-13,Home & Garden,Plant,South America,Budget,121.75,3,365.25,9.4,4.4,3
+ORD1357,2023-10-13,Clothing,T-Shirt,South America,Premium,154.02,5,770.1,0.2,4.0,6
+ORD1291,2023-10-16,Sports,Weights,Asia,Budget,42.59,4,170.36,5.5,3.2,2
+ORD1419,2023-10-18,Clothing,Jacket,Europe,Budget,64.24,5,321.2,6.3,3.9,1
+ORD1278,2023-10-19,Sports,Racket,Asia,Budget,48.64,3,145.92,13.4,4.4,2
+ORD1471,2023-10-20,Electronics,Smartphone,South America,Standard,861.42,1,861.42,8.0,4.7,4
+ORD1225,2023-10-20,Books,Non-Fiction,South America,Standard,34.91,4,139.64,1.7,4.0,1
+ORD1407,2023-10-21,Home & Garden,Rug,South America,Standard,171.8,4,687.2,6.5,4.7,3
+ORD1047,2023-10-24,Home & Garden,Rug,Africa,Standard,176.33,4,705.32,7.5,3.9,1
+ORD1041,2023-10-28,Clothing,Jeans,Africa,Premium,146.6,2,293.2,1.1,4.4,1
+ORD1110,2023-10-28,Electronics,Tablet,Europe,Standard,921.19,4,3684.76,11.4,3.5,2
+ORD1397,2023-10-30,Home & Garden,Chair,Europe,Premium,262.4,2,524.8,1.7,4.6,4
+ORD1230,2023-10-31,Toys,Car,Asia,Standard,59.86,5,299.3,6.4,4.2,1
+ORD1498,2023-11-02,Sports,Racket,Europe,Budget,55.73,3,167.19,18.4,3.9,4
+ORD1120,2023-11-02,Electronics,Laptop,South America,Standard,927.63,3,2782.89,9.6,4.1,5
+ORD1283,2023-11-03,Toys,Action Figure,Africa,Premium,87.86,1,87.86,0.3,4.7,5
+ORD1391,2023-11-04,Home & Garden,Plant,South America,Premium,233.38,3,700.14,3.2,4.5,5
+ORD1262,2023-11-04,Books,Fiction,Asia,Standard,32.92,2,65.84,6.0,4.1,2
+ORD1403,2023-11-05,Home & Garden,Plant,Europe,Premium,299.74,2,599.48,2.1,4.5,4
+ORD1281,2023-11-06,Books,Fiction,Asia,Standard,34.81,1,34.81,2.2,4.0,4
+ORD1406,2023-11-08,Books,Fiction,Europe,Standard,33.27,1,33.27,4.1,4.7,4
+ORD1350,2023-11-09,Clothing,Jacket,Europe,Standard,136.24,1,136.24,7.9,4.7,5
+ORD1132,2023-11-11,Electronics,Laptop,North America,Standard,1021.68,1,1021.68,6.4,4.5,6
+ORD1321,2023-11-12,Sports,Racket,Europe,Budget,41.28,5,206.4,10.8,3.5,7
+ORD1393,2023-11-13,Books,Fiction,Africa,Standard,32.71,2,65.42,14.4,3.9,6
+ORD1424,2023-11-14,Books,Fiction,Asia,Standard,33.9,1,33.9,0.6,4.1,1
+ORD1149,2023-11-16,Electronics,Tablet,Africa,Standard,1000.68,5,5003.4,5.6,3.6,6
+ORD1234,2023-11-18,Clothing,Shoes,Africa,Standard,120.1,5,600.5,2.0,3.6,1
+ORD1257,2023-11-18,Clothing,Shoes,Asia,Standard,135.39,1,135.39,1.9,4.0,6
+ORD1389,2023-11-18,Electronics,Headphones,Europe,Premium,1278.36,3,3835.08,0.0,4.3,5
+ORD1373,2023-11-18,Books,Fiction,North America,Budget,12.59,3,37.77,22.8,4.4,5
+ORD1077,2023-11-19,Books,Textbook,Asia,Budget,20.05,4,80.2,16.5,3.7,6
+ORD1072,2023-11-20,Books,Non-Fiction,South America,Premium,39.88,3,119.64,3.7,4.6,6
+ORD1254,2023-11-20,Electronics,Camera,Asia,Budget,361.52,2,723.04,19.9,3.1,7
+ORD1264,2023-11-20,Clothing,Jeans,Asia,Budget,65.53,3,196.59,17.2,3.0,2
+ORD1454,2023-11-21,Home & Garden,Chair,South America,Premium,266.07,2,532.14,3.2,4.7,2
+ORD1475,2023-11-24,Toys,Doll,South America,Budget,53.43,1,53.43,5.1,4.4,6
+ORD1410,2023-11-26,Home & Garden,Cushion,South America,Budget,150.7,2,301.4,9.6,3.3,3
+ORD1127,2023-11-28,Home & Garden,Plant,Africa,Budget,124.06,4,496.24,17.6,4.3,1
+ORD1068,2023-11-29,Sports,Weights,North America,Standard,96.14,3,288.42,0.1,3.6,7
+ORD1395,2023-12-01,Toys,Doll,South America,Standard,69.06,3,207.18,10.3,3.6,1
+ORD1356,2023-12-03,Books,Non-Fiction,Asia,Standard,31.77,1,31.77,4.3,3.9,2
+ORD1169,2023-12-05,Home & Garden,Plant,South America,Premium,284.03,1,284.03,4.7,4.7,3
+ORD1388,2023-12-05,Books,Non-Fiction,North America,Budget,13.22,3,39.66,21.4,4.2,1
+ORD1486,2023-12-05,Clothing,Jeans,Asia,Budget,39.41,1,39.41,18.2,3.6,2
+ORD1363,2023-12-06,Home & Garden,Rug,Africa,Budget,61.28,4,245.12,23.9,4.0,3
+ORD1337,2023-12-07,Clothing,Jeans,South America,Standard,139.63,2,279.26,14.2,3.6,3
+ORD1305,2023-12-08,Toys,Puzzle,Europe,Standard,61.54,2,123.08,4.4,4.7,1
+ORD1421,2023-12-10,Electronics,Tablet,Europe,Budget,495.89,5,2479.45,5.2,3.1,5
+ORD1474,2023-12-10,Toys,Doll,North America,Standard,55.62,3,166.86,2.2,4.8,6
+ORD1509,2023-12-11,Electronics,Camera,North America,Premium,1188.28,5,5941.4,4.0,4.5,1
+ORD1028,2023-12-11,Books,Textbook,Africa,Budget,16.22,5,81.1,11.5,4.1,3
+ORD1159,2023-12-13,Books,Fiction,Europe,Standard,32.77,5,163.85,14.5,4.2,4
+ORD1193,2023-12-14,Clothing,Jeans,Africa,Premium,155.49,3,466.47,2.3,5.0,1
+ORD1108,2023-12-15,Toys,Action Figure,South America,Budget,52.97,2,105.94,19.8,3.8,4
+ORD1024,2023-12-15,Books,Comic,Africa,Standard,30.03,4,120.12,12.2,4.4,6
+ORD1293,2023-12-18,Home & Garden,Lamp,South America,Standard,174.99,4,699.96,3.5,4.4,3
+ORD1034,2023-12-19,Books,Fiction,North America,Standard,31.57,4,126.28,7.6,4.7,1
+ORD1372,2023-12-20,Toys,Board Game,North America,Premium,72.74,5,363.7,4.4,4.3,5
+ORD1274,2023-12-24,Clothing,T-Shirt,South America,Standard,120.0,3,360.0,6.0,4.2,5
+ORD1349,2023-12-25,Books,Non-Fiction,Africa,Standard,30.12,2,60.24,13.1,3.5,7
+ORD1360,2023-12-26,Home & Garden,Cushion,Africa,Standard,200.39,4,801.56,1.3,4.0,1
+ORD1497,2023-12-27,Sports,Racket,Asia,Premium,121.8,3,365.4,1.1,4.1,1
+ORD1185,2023-12-29,Electronics,Tablet,North America,Budget,462.26,5,2311.3,7.7,3.0,7
+ORD1328,2023-12-29,Sports,Ball,Africa,Standard,98.88,3,296.64,7.4,4.4,6
+ORD1057,2023-12-30,Home & Garden,Cushion,Asia,Premium,211.49,4,845.96,2.6,4.2,7
+ORD1324,2024-01-02,Sports,Bottle,Europe,Premium,137.97,3,413.91,1.1,4.0,7
+ORD1033,2024-01-03,Books,Magazine,Asia,Premium,36.62,1,36.62,0.2,4.6,3
+ORD1089,2024-01-06,Books,Textbook,South America,Standard,33.51,2,67.02,5.4,3.9,4
+ORD1042,2024-01-06,Books,Magazine,Africa,Standard,34.09,3,102.27,12.9,3.5,1
+ORD1131,2024-01-07,Home & Garden,Cushion,Europe,Budget,134.82,4,539.28,11.8,4.4,1
+ORD1385,2024-01-08,Home & Garden,Chair,Europe,Budget,131.62,2,263.24,8.2,4.3,7
+ORD1322,2024-01-09,Electronics,Camera,South America,Budget,667.38,3,2002.14,10.9,3.8,1
+ORD1054,2024-01-09,Books,Textbook,South America,Standard,33.17,3,99.51,8.0,3.6,6
+ORD1277,2024-01-14,Home & Garden,Plant,Africa,Standard,185.36,2,370.72,2.1,3.7,5
+ORD1316,2024-01-14,Home & Garden,Cushion,Europe,Premium,288.65,1,288.65,3.0,4.6,4
+ORD1056,2024-01-15,Toys,Board Game,Africa,Premium,71.22,4,284.88,3.0,4.7,1
+ORD1124,2024-01-18,Toys,Board Game,North America,Premium,72.83,3,218.49,3.4,4.1,5
+ORD1151,2024-01-18,Electronics,Smartphone,Asia,Premium,1457.86,2,2915.72,0.6,4.5,7
+ORD1039,2024-01-23,Sports,Ball,Africa,Budget,27.59,1,27.59,22.9,3.8,7
+ORD1065,2024-01-24,Toys,Car,South America,Standard,60.24,4,240.96,10.9,4.7,2
+ORD1401,2024-01-24,Books,Fiction,Africa,Premium,39.85,5,199.25,2.4,4.8,5
+ORD1220,2024-01-24,Books,Magazine,South America,Standard,31.78,2,63.56,14.8,4.3,4
+ORD1051,2024-01-25,Clothing,Dress,Africa,Premium,169.37,3,508.11,4.9,4.2,5
+ORD1494,2024-01-25,Electronics,Laptop,Asia,Premium,1295.02,1,1295.02,0.0,4.3,1
+ORD1031,2024-01-25,Electronics,Camera,Asia,Budget,564.83,2,1129.66,20.4,3.7,6
+ORD1102,2024-01-26,Home & Garden,Cushion,Africa,Standard,188.23,3,564.69,4.8,4.5,1
+ORD1343,2024-01-27,Toys,Action Figure,Asia,Budget,47.3,5,236.5,5.7,3.9,7
+ORD1480,2024-01-28,Home & Garden,Cushion,Asia,Premium,297.29,4,1189.16,0.5,4.7,7
+ORD1436,2024-01-29,Toys,Board Game,Africa,Budget,25.28,3,75.84,21.3,3.1,5
+ORD1101,2024-01-30,Books,Fiction,Asia,Budget,22.75,1,22.75,19.5,4.5,4
+ORD1377,2024-01-30,Books,Fiction,Asia,Standard,32.48,4,129.92,1.2,3.8,5
+ORD1508,2024-02-03,Books,Comic,Europe,Standard,32.43,2,64.86,3.9,3.9,3
+ORD1492,2024-02-03,Home & Garden,Lamp,South America,Budget,139.06,4,556.24,20.2,4.2,3
+ORD1499,2024-02-04,Sports,Ball,Asia,Budget,46.29,4,185.16,12.6,4.3,6
+ORD1222,2024-02-04,Electronics,Headphones,North America,Standard,899.19,5,4495.95,2.4,3.7,7
+ORD1515,2024-02-08,Sports,Ball,South America,Premium,126.76,4,507.04,4.0,4.6,7
+ORD1080,2024-02-10,Clothing,Jacket,Europe,Budget,104.64,1,104.64,24.1,4.4,4
+ORD1260,2024-02-10,Toys,Car,Asia,Standard,65.41,2,130.82,8.1,3.8,7
+ORD1088,2024-02-13,Electronics,Headphones,Asia,Budget,770.29,3,2310.87,19.8,4.0,6
+ORD1150,2024-02-13,Home & Garden,Chair,Europe,Standard,199.97,5,999.85,8.4,4.1,1
+ORD1355,2024-02-13,Electronics,Smartphone,Africa,Budget,679.43,5,3397.15,9.8,3.2,2
+ORD1362,2024-02-14,Books,Fiction,Africa,Premium,44.2,2,88.4,0.8,5.0,1
+ORD1438,2024-02-14,Home & Garden,Plant,Africa,Premium,250.71,3,752.13,3.2,4.5,5
+ORD1217,2024-02-15,Home & Garden,Rug,South America,Budget,102.51,4,410.04,16.7,4.1,3
+ORD1073,2024-02-15,Books,Magazine,South America,Budget,26.98,2,53.96,18.2,3.9,4
+ORD1396,2024-02-17,Electronics,Laptop,Asia,Standard,910.19,3,2730.57,10.6,3.6,7
+ORD1192,2024-02-17,Books,Textbook,South America,Budget,12.94,5,64.7,23.5,3.7,4
+ORD1247,2024-02-18,Sports,Ball,North America,Budget,35.34,2,70.68,20.0,3.8,3
+ORD1510,2024-02-19,Electronics,Laptop,Europe,Premium,1190.09,4,4760.36,3.1,4.7,3
+ORD1404,2024-02-20,Home & Garden,Plant,Asia,Standard,172.36,1,172.36,11.9,4.4,3
+ORD1329,2024-02-21,Electronics,Headphones,Asia,Premium,1245.67,2,2491.34,1.2,4.8,5
+ORD1180,2024-02-21,Toys,Doll,Asia,Standard,69.31,4,277.24,9.1,3.8,2
+ORD1213,2024-02-21,Sports,Weights,Europe,Premium,121.98,3,365.94,0.1,4.3,5
+ORD1485,2024-02-22,Toys,Board Game,Asia,Standard,68.96,3,206.88,10.3,4.4,7
+ORD1394,2024-02-23,Electronics,Laptop,Asia,Premium,1334.68,4,5338.72,4.7,4.1,6
+ORD1187,2024-02-25,Sports,Racket,Africa,Standard,87.29,2,174.58,2.0,3.5,2
+ORD1338,2024-02-26,Clothing,T-Shirt,North America,Budget,83.5,4,334.0,23.5,3.3,5
+ORD1334,2024-02-27,Toys,Car,North America,Premium,96.19,5,480.95,3.7,4.8,4
+ORD1484,2024-02-29,Clothing,T-Shirt,North America,Premium,192.13,1,192.13,2.9,4.0,5
+ORD1434,2024-02-29,Toys,Puzzle,Africa,Premium,71.56,5,357.8,2.7,4.7,2
+ORD1488,2024-03-01,Toys,Puzzle,Asia,Premium,99.98,5,499.9,0.2,5.0,5
+ORD1252,2024-03-05,Sports,Racket,Europe,Budget,56.85,5,284.25,15.7,4.3,6
+ORD1500,2024-03-05,Clothing,T-Shirt,Europe,Premium,171.14,4,684.56,2.4,4.0,1
+ORD1017,2024-03-05,Books,Comic,Africa,Budget,25.5,4,102.0,23.8,4.3,3
+ORD1400,2024-03-06,Sports,Weights,South America,Premium,139.12,3,417.36,0.1,4.0,4
+ORD1491,2024-03-06,Toys,Action Figure,North America,Budget,28.19,1,28.19,11.5,4.0,3
+ORD1099,2024-03-08,Books,Textbook,Asia,Premium,38.24,4,152.96,3.1,4.1,1
+ORD1008,2024-03-08,Electronics,Tablet,Africa,Budget,496.45,4,1985.8,20.7,3.3,4
+ORD1023,2024-03-08,Clothing,Shoes,Europe,Standard,139.61,5,698.05,11.6,3.8,3
+ORD1200,2024-03-08,Clothing,Jeans,North America,Standard,115.07,4,460.28,4.2,3.7,6
+ORD1226,2024-03-09,Toys,Car,Africa,Standard,69.54,3,208.62,13.0,4.6,6
+ORD1186,2024-03-09,Toys,Action Figure,North America,Budget,43.98,3,131.94,17.4,4.1,7
+ORD1301,2024-03-09,Toys,Board Game,North America,Budget,36.24,2,72.48,13.4,4.3,1
+ORD1146,2024-03-09,Clothing,Jeans,Africa,Premium,182.37,1,182.37,0.4,4.1,3
+ORD1443,2024-03-11,Toys,Doll,Africa,Premium,84.95,4,339.8,2.8,4.7,3
+ORD1457,2024-03-12,Clothing,T-Shirt,Africa,Standard,115.43,5,577.15,12.8,4.1,3
+ORD1310,2024-03-13,Clothing,Shoes,Asia,Budget,32.54,2,65.08,21.7,4.5,1
+ORD1087,2024-03-14,Electronics,Headphones,Asia,Budget,843.54,5,4217.7,7.8,3.8,2
+ORD1518,2024-03-14,Home & Garden,Rug,Europe,Standard,175.26,3,525.78,3.2,4.3,5
+ORD1318,2024-03-16,Home & Garden,Chair,Asia,Standard,183.84,5,919.2,5.7,4.2,2
+ORD1409,2024-03-16,Toys,Doll,South America,Standard,59.11,2,118.22,14.8,4.0,4
+ORD1386,2024-03-17,Toys,Board Game,North America,Standard,68.08,2,136.16,0.4,4.6,5
+ORD1184,2024-03-17,Home & Garden,Plant,Europe,Premium,259.67,2,519.34,2.8,4.9,2
+ORD1371,2024-03-20,Home & Garden,Chair,Africa,Budget,102.49,5,512.45,16.9,3.9,4
+ORD1111,2024-03-21,Home & Garden,Chair,Asia,Budget,45.67,3,137.01,5.9,3.1,1
+ORD1505,2024-03-22,Home & Garden,Chair,North America,Standard,165.34,4,661.36,9.7,4.7,3
+ORD1374,2024-03-22,Home & Garden,Chair,Africa,Budget,146.39,4,585.56,21.2,4.0,7
+ORD1381,2024-03-22,Clothing,T-Shirt,South America,Standard,126.97,3,380.91,4.0,4.6,5
+ORD1280,2024-03-24,Sports,Bottle,South America,Budget,15.88,5,79.4,18.3,3.3,3
+ORD1152,2024-03-24,Home & Garden,Cushion,Asia,Premium,211.02,1,211.02,2.3,4.1,4
+ORD1469,2024-03-26,Sports,Bottle,Europe,Budget,69.38,4,277.52,16.7,4.3,7
+ORD1412,2024-03-28,Clothing,Dress,Africa,Premium,191.86,5,959.3,2.4,5.0,1
+ORD1413,2024-03-28,Toys,Board Game,Europe,Standard,57.78,3,173.34,13.0,4.5,7
+ORD1309,2024-03-28,Sports,Mat,Asia,Premium,129.37,1,129.37,3.2,4.3,3
+ORD1455,2024-03-29,Toys,Action Figure,Asia,Budget,15.92,5,79.6,19.3,4.4,6
+ORD1206,2024-03-29,Sports,Ball,Africa,Budget,69.42,2,138.84,20.0,3.3,6
+ORD1458,2024-04-01,Sports,Bottle,Europe,Standard,88.06,3,264.18,13.1,4.1,3
+ORD1198,2024-04-04,Sports,Weights,Europe,Standard,102.68,1,102.68,7.1,4.4,3
+ORD1019,2024-04-04,Home & Garden,Cushion,Asia,Standard,173.82,5,869.1,0.7,3.9,6
+ORD1461,2024-04-05,Clothing,Jeans,Europe,Budget,43.23,3,129.69,18.1,3.5,7
+ORD1154,2024-04-07,Toys,Doll,Africa,Budget,43.57,3,130.71,16.7,4.4,1
+ORD1053,2024-04-09,Clothing,Dress,South America,Budget,85.54,4,342.16,12.4,3.9,1
+ORD1113,2024-04-09,Toys,Doll,Africa,Premium,72.94,1,72.94,2.5,4.5,7
+ORD1224,2024-04-10,Home & Garden,Cushion,Asia,Standard,168.61,5,843.05,7.9,4.0,6
+ORD1433,2024-04-11,Books,Fiction,Europe,Premium,45.6,3,136.8,0.2,4.9,7
+ORD1451,2024-04-12,Sports,Ball,Asia,Budget,63.95,3,191.85,14.7,4.3,5
+ORD1263,2024-04-13,Electronics,Laptop,Asia,Standard,1039.46,5,5197.3,2.3,4.3,4
+ORD1267,2024-04-14,Clothing,Jeans,Africa,Standard,114.58,1,114.58,8.6,4.3,1
+ORD1081,2024-04-14,Electronics,Laptop,South America,Premium,1216.57,3,3649.71,0.1,4.9,1
+ORD1037,2024-04-15,Sports,Bottle,Europe,Budget,25.88,4,103.52,23.6,4.2,4
+ORD1348,2024-04-16,Sports,Weights,South America,Standard,102.43,2,204.86,9.2,3.8,3
+ORD1520,2024-04-17,Books,Fiction,Europe,Budget,17.07,3,51.21,9.7,4.2,6
+ORD1064,2024-04-18,Electronics,Smartphone,South America,Budget,785.27,3,2355.81,17.7,3.5,5
+ORD1203,2024-04-18,Sports,Bottle,South America,Premium,136.07,3,408.21,0.2,4.8,2
+ORD1447,2024-04-20,Toys,Board Game,South America,Budget,30.82,4,123.28,22.4,4.1,4
+ORD1453,2024-04-20,Toys,Doll,Asia,Premium,87.77,4,351.08,4.6,4.2,3
+ORD1411,2024-04-21,Books,Textbook,South America,Standard,30.16,1,30.16,9.8,4.0,5
+ORD1487,2024-04-22,Sports,Bottle,Africa,Budget,58.96,5,294.8,7.1,4.0,3
+ORD1188,2024-04-23,Clothing,Dress,Europe,Budget,51.55,4,206.2,16.8,3.6,1
+ORD1512,2024-04-23,Toys,Board Game,Europe,Standard,57.72,2,115.44,10.2,3.7,4
+ORD1103,2024-04-24,Toys,Doll,South America,Premium,78.12,5,390.6,2.2,4.1,5
+ORD1345,2024-04-26,Sports,Racket,South America,Standard,98.17,3,294.51,5.1,4.4,1
+ORD1177,2024-04-29,Home & Garden,Rug,North America,Budget,164.96,3,494.88,24.9,3.8,1
+ORD1179,2024-04-29,Home & Garden,Rug,Europe,Standard,176.13,1,176.13,6.8,3.7,5
+ORD1416,2024-04-29,Books,Magazine,North America,Standard,34.6,5,173.0,9.2,4.5,4
+ORD1142,2024-05-01,Clothing,Dress,South America,Premium,166.49,2,332.98,4.4,4.4,6
+ORD1431,2024-05-01,Books,Non-Fiction,Europe,Budget,23.79,4,95.16,21.0,3.3,4
+ORD1460,2024-05-01,Books,Fiction,Asia,Budget,13.27,2,26.54,12.8,4.5,6
+ORD1237,2024-05-03,Electronics,Headphones,Europe,Budget,587.17,4,2348.68,14.4,3.6,1
+ORD1495,2024-05-03,Books,Comic,Asia,Budget,17.33,5,86.65,12.9,4.0,7
+ORD1215,2024-05-07,Clothing,Jeans,North America,Budget,100.15,4,400.6,16.9,4.0,1
+ORD1466,2024-05-11,Toys,Puzzle,South America,Budget,37.77,3,113.31,19.1,3.3,7
+ORD1214,2024-05-12,Home & Garden,Lamp,South America,Budget,58.55,4,234.2,11.5,3.2,6
+ORD1174,2024-05-12,Electronics,Camera,Europe,Premium,1486.46,2,2972.92,4.2,4.8,6
+ORD1138,2024-05-12,Sports,Weights,North America,Standard,96.72,5,483.6,6.7,3.9,2
+ORD1506,2024-05-12,Sports,Ball,Asia,Budget,31.44,5,157.2,23.5,3.1,6
+ORD1227,2024-05-13,Electronics,Laptop,South America,Standard,901.58,5,4507.9,2.6,4.4,7
+ORD1502,2024-05-14,Toys,Doll,North America,Premium,87.41,2,174.82,2.7,4.6,6
+ORD1128,2024-05-15,Toys,Puzzle,Africa,Budget,43.08,2,86.16,21.1,3.4,4
+ORD1297,2024-05-15,Home & Garden,Plant,Europe,Premium,287.01,5,1435.05,4.2,4.4,3
+ORD1093,2024-05-20,Home & Garden,Lamp,Africa,Standard,200.81,2,401.62,13.4,3.9,6
+ORD1437,2024-05-21,Books,Comic,South America,Budget,27.9,1,27.9,16.0,4.2,3
+ORD1079,2024-05-26,Toys,Board Game,Africa,Premium,70.73,5,353.65,3.2,4.2,1
+ORD1116,2024-05-27,Clothing,Dress,North America,Standard,121.24,2,242.48,9.4,4.2,2
+ORD1238,2024-05-29,Toys,Car,Asia,Budget,25.7,1,25.7,23.6,4.2,5
+ORD1456,2024-05-31,Books,Non-Fiction,Africa,Premium,37.7,2,75.4,1.2,5.0,7
+ORD1014,2024-06-01,Clothing,Dress,Asia,Budget,23.09,5,115.45,23.2,3.4,7
+ORD1296,2024-06-01,Electronics,Tablet,North America,Standard,869.89,4,3479.56,3.6,4.4,6
+ORD1271,2024-06-02,Electronics,Camera,Africa,Premium,1464.38,3,4393.14,4.3,4.5,5
+ORD1121,2024-06-03,Sports,Ball,South America,Budget,51.83,2,103.66,23.8,3.6,5
+ORD1118,2024-06-03,Electronics,Tablet,Europe,Budget,245.87,3,737.61,17.8,3.0,1
+ORD1392,2024-06-03,Books,Magazine,Europe,Budget,25.6,5,128.0,7.1,4.1,6
+ORD1241,2024-06-04,Clothing,Jeans,South America,Premium,184.47,3,553.41,2.9,4.8,5
+ORD1361,2024-06-05,Toys,Board Game,Asia,Premium,96.37,3,289.11,4.7,4.5,3
+ORD1092,2024-06-05,Electronics,Camera,North America,Budget,718.89,4,2875.56,18.0,4.1,7
+ORD1375,2024-06-07,Clothing,T-Shirt,North America,Budget,69.58,2,139.16,6.7,3.6,2
+ORD1415,2024-06-07,Toys,Car,Europe,Standard,64.39,2,128.78,2.0,3.5,6
+ORD1171,2024-06-10,Books,Magazine,Africa,Budget,27.32,1,27.32,5.9,3.0,4
+ORD1420,2024-06-11,Sports,Mat,Asia,Standard,88.55,1,88.55,12.0,3.9,1
+ORD1153,2024-06-13,Toys,Board Game,Europe,Premium,73.56,4,294.24,0.6,4.6,5
+ORD1446,2024-06-14,Books,Comic,Africa,Budget,11.44,4,45.76,5.6,3.4,4
+ORD1383,2024-06-16,Toys,Action Figure,South America,Standard,68.01,1,68.01,10.6,4.6,1
+ORD1465,2024-06-17,Home & Garden,Plant,South America,Standard,202.3,5,1011.5,6.5,3.8,1
+ORD1253,2024-06-19,Sports,Weights,Africa,Premium,140.49,1,140.49,0.8,4.3,1
+ORD1145,2024-06-24,Home & Garden,Cushion,Africa,Budget,124.63,1,124.63,6.5,4.2,1

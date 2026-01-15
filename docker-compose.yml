@@ -1,0 +1,50 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: ai-data-analyst-api
+    ports:
+      - "8000:8000"
+    environment:
+      - LLM_PROVIDER=${LLM_PROVIDER:-openai}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
+      - STORAGE_PATH=/app/storage/data
+      - REPORTS_PATH=/app/storage/reports
+      - CHARTS_PATH=/app/storage/charts
+      - DB_PATH=/app/storage/metadata.db
+      - API_HOST=0.0.0.0
+      - API_PORT=8000
+      - LLM_TEMPERATURE=0.1
+      - LLM_MAX_TOKENS=2000
+    volumes:
+      - ./storage:/app/storage
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: ai-data-analyst-n8n
+    ports:
+      - "5678:5678"
+    environment:
+      - N8N_BASIC_AUTH_ACTIVE=true
+      - N8N_BASIC_AUTH_USER=admin
+      - N8N_BASIC_AUTH_PASSWORD=${N8N_PASSWORD:-changeme}
+      - WEBHOOK_URL=http://n8n:5678/
+      - API_BASE_URL=http://api:8000
+    volumes:
+      - n8n_data:/home/node/.n8n
+      - ./orchestration/n8n:/home/node/.n8n/workflows
+    restart: unless-stopped
+    depends_on:
+      - api
+
+volumes:
+  n8n_data:
