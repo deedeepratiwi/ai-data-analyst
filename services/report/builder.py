@@ -277,32 +277,36 @@ class ReportBuilder:
         
         # Anomalies
         anomalies = eda_metrics.get("anomalies", {})
-        if anomalies:
+        if anomalies and isinstance(anomalies, dict):
             section += "### Anomalies Detected\n\n"
             for col, anom in anomalies.items():
-                upper = anom.get("upper_outliers", 0)
-                lower = anom.get("lower_outliers", 0)
-                pct = anom.get("anomaly_percentage", 0)
-                
-                if upper + lower > 0:
-                    section += f"**{col}**: {upper + lower} outliers ({pct:.2f}%)\n"
-                    if upper > 0:
-                        section += f"  - Upper: {upper}\n"
-                    if lower > 0:
-                        section += f"  - Lower: {lower}\n"
+                if isinstance(anom, dict):
+                    upper = anom.get("upper_outliers", 0)
+                    lower = anom.get("lower_outliers", 0)
+                    pct = anom.get("anomaly_percentage", 0)
+                    
+                    if upper + lower > 0:
+                        section += f"**{col}**: {upper + lower} outliers ({pct:.2f}%)\n"
+                        if upper > 0:
+                            section += f"  - Upper: {upper}\n"
+                        if lower > 0:
+                            section += f"  - Lower: {lower}\n"
             section += "\n"
         
         # Correlations
         correlations = eda_metrics.get("correlations", [])
-        if correlations:
+        if correlations and isinstance(correlations, list):
             section += "### Significant Correlations\n\n"
-            for corr in correlations[:10]:  # Top 10
-                col1 = corr.get("column1", "")
-                col2 = corr.get("column2", "")
-                value = corr.get("correlation", 0)
-                strength = corr.get("strength", "")
-                
-                section += f"- **{col1}** ↔ **{col2}**: {value:.3f} ({strength})\n"
+            # Take top 10 if it's a list
+            corr_list = correlations[:10] if len(correlations) > 10 else correlations
+            for corr in corr_list:
+                if isinstance(corr, dict):
+                    col1 = corr.get("column1", "")
+                    col2 = corr.get("column2", "")
+                    value = corr.get("correlation", 0)
+                    strength = corr.get("strength", "")
+                    
+                    section += f"- **{col1}** ↔ **{col2}**: {value:.3f} ({strength})\n"
             section += "\n"
         
         return section

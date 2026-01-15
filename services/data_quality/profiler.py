@@ -297,10 +297,12 @@ class DataQualityProfiler:
              if op["operation"] == "duplicate_removal"),
             None
         )
-        if dup_info:
-            dup_pct = (dup_info["duplicates_removed"] / 
-                      dup_info["original_rows"] * 100)
-            score -= min(dup_pct, 20)  # Max 20 point penalty
+        if dup_info and dup_info.get("duplicates_removed"):
+            dup_data = dup_info["duplicates_removed"]
+            if isinstance(dup_data, dict) and "original_rows" in dup_data:
+                dup_pct = (dup_data["duplicates_removed"] / 
+                          dup_data["original_rows"] * 100)
+                score -= min(dup_pct, 20)  # Max 20 point penalty
         
         # Bonus for successful type casting
         type_info = next(
